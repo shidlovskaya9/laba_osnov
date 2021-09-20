@@ -1,0 +1,14 @@
+
+body{
+    background-image:url(letka.jpg);
+    font-family: Arial, Helvetica, sans-serif; 
+    color: ;
+    font-size: 20px;
+}
+.leto-text {
+    text-align: center;
+}
+.main_title{
+    font-size: 40px;
+    background-color: darkgray;
+}
